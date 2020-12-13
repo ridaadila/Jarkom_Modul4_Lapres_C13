@@ -4,7 +4,7 @@
 # LAPRES MODUL 4 JARKOM
 
 ### KELOMPOK C13:
-#### 1) Rida Adila 051111840000002
+#### 1) Rida Adila 05111840000002
 #### 2) Bayu Surya B. 05111840000114
 
 ********
