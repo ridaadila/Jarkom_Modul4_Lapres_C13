@@ -69,12 +69,17 @@
 ![image](https://user-images.githubusercontent.com/71973415/101991320-78ade280-3cde-11eb-91ee-203cfa6535cc.png)
 #
 - Lalu pada tiap interface device , atur ip nya sesuai dengan gambar pembagian ip sebelumnya , serta untuk server diberikan diberikan nid dmz, dan cloud diberikan ip tuntap :
+#
 ![image](https://user-images.githubusercontent.com/71973415/101991569-2e2d6580-3ce0-11eb-970f-cfc9534c5463.png)
+#
 ![image](https://user-images.githubusercontent.com/71973415/101991579-4e5d2480-3ce0-11eb-873f-9813f3fea7f3.png)
+#
 ![image](https://user-images.githubusercontent.com/71973415/101991586-5917b980-3ce0-11eb-9798-ec5683b33c8d.png)
+#
 ![image](https://user-images.githubusercontent.com/71973415/101991590-65037b80-3ce0-11eb-944d-4d1e7c7528d0.png)
+#
 ![image](https://user-images.githubusercontent.com/71973415/101991598-70ef3d80-3ce0-11eb-888f-1990f7fbd2f5.png)
-
+#
 **atur pada interface device lainnya**
 
 - Untuk Routing, diatur sesuai pengaturan routing di list routing yang telah didefiniskan sebelumnya :
