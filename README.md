@@ -59,7 +59,9 @@
 #
 - Atur Routing :
 ![image](https://user-images.githubusercontent.com/71973415/101991354-bf9bd800-3cde-11eb-8e8f-c495f113dc77.png)
+#
 ![image](https://user-images.githubusercontent.com/71973415/101991359-ce828a80-3cde-11eb-8495-ff89db630345.png)
+#
 ![image](https://user-images.githubusercontent.com/71973415/101991363-d6422f00-3cde-11eb-84f4-fdf3042874a3.png)
 #
 - Buat topologi pada cisco seperti pada gambar berikut :
